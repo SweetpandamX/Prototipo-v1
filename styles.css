@@ -7,6 +7,7 @@ body {
 }
 
 /* Encabezado */
+
 header {
     background-color: #4CAF50;
     color: white;
@@ -15,6 +16,7 @@ header {
 }
 
 /* Sección principal */
+
 main {
     max-width: 800px;
     margin: 20px auto;
@@ -25,6 +27,7 @@ main {
 }
 
 /* Estilos de la sección de carga */
+
 #upload-section {
     margin-bottom: 30px;
 }
@@ -40,6 +43,7 @@ main {
 }
 
 /* Botón */
+
 button {
     background-color: #4CAF50;
     color: white;
